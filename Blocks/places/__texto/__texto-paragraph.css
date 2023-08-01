@@ -1,0 +1,15 @@
+.place__texto-paragraph {
+  color: #fff;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 163%;
+  margin: 0;
+}
+
+@media screen and (max-width: 320px) {
+  .place__text-paragraph {
+    font-size: 16px;
+    line-height: 26.08px;
+  }
+}
